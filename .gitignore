@@ -2,7 +2,7 @@
 .eggs/
 .idea/
 build/
-*/.egg-info/
+*.egg-info/
 update_pkg.sh
 main.py
 dist/
