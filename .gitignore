@@ -1,0 +1,8 @@
+.git/
+.eggs/
+.idea/
+build/
+.egg-info
+update_pkg.sh
+main.py
+dist/
